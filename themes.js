@@ -5,7 +5,7 @@ exports.COLOR_THEMES = {
       'gradient-1': '#7d7aff',
       'gradient-2': '#2121e2',
       'gradient-3': '#00fff0',
-      'gradient-4': '#8785FF',
+      'gradient-4': '#ff8585',
     },
   },
   bejamas: {
