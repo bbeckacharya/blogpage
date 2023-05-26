@@ -65,3 +65,5 @@ export function getStaticProps() {
 
   return { props: { posts, globalData } };
 }
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1072461408112281"
+     crossorigin="anonymous"></script>
