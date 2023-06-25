@@ -1,4 +1,4 @@
-![Netlify Next.js Blog Template designed by Bibek
+![Netlify Next.js Blog Template designed by Bibek Acharya.
 
 
 A customizable blog starter using:
@@ -8,7 +8,7 @@ A customizable blog starter using:
 - Built-in [MDX](https://mdxjs.com/) v1 support
 - Includes modern design with dark & light themes
 
-![Preview of blog theme. Author named Jay Doe and blog's name is "Next.js Blog Theme" with one blog post](nextjs-blog-theme-preview.png)
+
 
 [Take a gander at the demo.](https://bejamas-nextjs-blog.netlify.app)
 
